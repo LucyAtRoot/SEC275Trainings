@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sT -F 217.218.215.0/26" profile_name="" scanner="nmap" start="1707238895" startstr="Tue Feb  6 09:01:35 2024" version="7.94" xmloutputversion="1.04"><scaninfo type="connect" protocol="tcp" numservices="100" services="7,9,13,21-23,25-26,37,53,79-81,88,106,110-111,113,119,135,139,143-144,179,199,389,427,443-445,465,513-515,543-544,548,554,587,631,646,873,990,993,995,1025-1029,1110,1433,1720,1723,1755,1900,2000-2001,2049,2121,2717,3000,3128,3306,3389,3986,4899,5000,5009,5051,5060,5101,5190,5357,5432,5631,5666,5800,5900,6000-6001,6646,7070,8000,8008-8009,8080-8081,8443,8888,9100,9999-10000,32768,49152-49157"></scaninfo><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.94 ( https://nmap.org ) at 2024-02-06 09:01 Pacific Standard Time
+Nmap scan report for 217.218.215.0
+Host is up (0.00s latency).
+All 100 scanned ports on 217.218.215.0 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.2
+Host is up (0.0020s latency).
+All 100 scanned ports on 217.218.215.2 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.3
+Host is up (0.0010s latency).
+All 100 scanned ports on 217.218.215.3 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.4
+Host is up (0.030s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.6
+Host is up (0.025s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.7
+Host is up (0.047s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for pmg.qom.ac.ir (217.218.215.11)
+Host is up (0.025s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.15
+Host is up (0.042s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.17
+Host is up (0.050s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.18
+Host is up (0.022s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.19
+Host is up (0.045s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.20
+Host is up (0.036s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.21
+Host is up (0.039s latency).
+All 100 scanned ports on 217.218.215.21 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.22
+Host is up (0.021s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.23
+Host is up (0.00s latency).
+All 100 scanned ports on 217.218.215.23 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.25
+Host is up (0.036s latency).
+Not shown: 95 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+21/tcp  open  ftp
+53/tcp  open  domain
+80/tcp  open  http
+110/tcp open  pop3
+443/tcp open  https
+
+Nmap scan report for 217.218.215.26
+Host is up (0.030s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.33
+Host is up (0.0020s latency).
+All 100 scanned ports on 217.218.215.33 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.34
+Host is up (0.0030s latency).
+All 100 scanned ports on 217.218.215.34 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.37
+Host is up (0.0020s latency).
+All 100 scanned ports on 217.218.215.37 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.40
+Host is up (0.051s latency).
+All 100 scanned ports on 217.218.215.40 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.47
+Host is up (0.0030s latency).
+All 100 scanned ports on 217.218.215.47 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.49
+Host is up (0.020s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for 217.218.215.50
+Host is up (0.0030s latency).
+All 100 scanned ports on 217.218.215.50 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.51
+Host is up (0.010s latency).
+All 100 scanned ports on 217.218.215.51 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.52
+Host is up (0.010s latency).
+All 100 scanned ports on 217.218.215.52 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.53
+Host is up (0.011s latency).
+All 100 scanned ports on 217.218.215.53 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.54
+Host is up (0.0020s latency).
+All 100 scanned ports on 217.218.215.54 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.57
+Host is up (0.010s latency).
+All 100 scanned ports on 217.218.215.57 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.59
+Host is up (0.010s latency).
+All 100 scanned ports on 217.218.215.59 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Nmap scan report for 217.218.215.62
+Host is up (0.026s latency).
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 64 IP addresses (31 hosts up) scanned in 352.24 seconds
+</output><host comment=""><status state="up"></status><address addr="217.218.215.0" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.2" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.3" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.4" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.6" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.7" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.11" vendor="" addrtype="ipv4"></address><hostnames><hostname name="pmg.qom.ac.ir" type="PTR"></hostname></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.15" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.17" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.18" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.19" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.20" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.21" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.22" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.23" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.25" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="95" state="filtered"></extraports><port portid="21" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="ftp"></service></port><port portid="53" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="domain"></service></port><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="110" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="pop3"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.26" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.33" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.34" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.37" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.40" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.47" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.49" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.50" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.51" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.52" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.53" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.54" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.57" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.59" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="100" state="filtered"></extraports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="217.218.215.62" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports><extraports count="98" state="filtered"></extraports><port portid="80" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="http"></service></port><port portid="443" protocol="tcp"><state state="open" reason="syn-ack" reason_ttl="0"></state><service conf="3" method="table" name="https"></service></port></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1707239246" timestr="Tue Feb  6 09:07:26 2024"></finished><hosts up="31" down="33" total="64"></hosts></runstats></nmaprun>
